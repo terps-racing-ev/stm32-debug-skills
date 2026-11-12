@@ -1,5 +1,5 @@
 ---
-name: stm32-live-debug
+name: stm32-debug
 description: Use when diagnosing firmware running on an STM32 through ST-LINK, SWD/JTAG, Cortex-Debug, OpenOCD, or GDB, especially when an agent needs to inspect a live target, set breakpoints, step, or investigate a fault.
 ---
 
