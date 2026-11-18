@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "stm32-debug",
+  "version": "0.4.0",
+  "description": "Diagnose STM32 firmware, including TREV STM32L432KC projects, from source and a connected ST-LINK target.",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true,
+      "interface": {
+        "displayName": "STM32 Debug",
+        "shortDescription": "Debug STM32 firmware and TREV STM32L432KC boards"
+      }
+    }
+  }
+}

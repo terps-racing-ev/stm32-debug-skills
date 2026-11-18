@@ -1,0 +1,14 @@
+{
+  "name": "trev-stm32-debug",
+  "description": "Terps Racing EV STM32 debugging skills",
+  "owner": {
+    "name": "Terps Racing EV"
+  },
+  "plugins": [
+    {
+      "name": "stm32-debug",
+      "source": "./",
+      "description": "Two STM32 debug skills with a local ST-LINK bridge"
+    }
+  ]
+}

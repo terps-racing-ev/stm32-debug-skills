@@ -1,0 +1,20 @@
+{
+  "name": "trev-stm32-debug",
+  "interface": {
+    "displayName": "Terps Racing EV STM32 Debug"
+  },
+  "plugins": [
+    {
+      "name": "stm32-debug",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

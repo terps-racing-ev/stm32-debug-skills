@@ -1,0 +1,9 @@
+{
+  "name": "stm32-debug",
+  "displayName": "STM32 Debug",
+  "version": "0.4.0",
+  "description": "Debug STM32 firmware and TREV STM32L432KC boards with a local ST-LINK bridge",
+  "author": {
+    "name": "Parth Mohan"
+  }
+}
